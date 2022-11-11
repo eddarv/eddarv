@@ -15,8 +15,9 @@ Visit my portfolio!, click here: https://eddarv.github.io/portafolio-cv
 * HTML
 * CSS
 * Javascript
-* NodeJS + expressJS
+* Node.js + Express.js
 * React + Redux
+* Next.js
 * Figma
 * Git
 * MySQL
