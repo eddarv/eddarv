@@ -11,7 +11,7 @@ Visit my portfolio!, click here: https://eddarv.github.io/portafolio-cv
 <img src="https://github.com/eddarv/eddarv/blob/main/coding-animate.svg" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 
-I have 3 years of experience in web development, and 7 months of experience in the workplace as a frontend developer, in which I used technologies such as ### VueJS, Sass, Docker, PHP, HTML, CSS, Javascript, Figma and Git ###. I am always learning about cutting-edge technologies on the market and I stand out for my versatility in learning new things.
+I have 3 years of experience in web development, and 7 months of experience in the workplace as a frontend developer, in which I used technologies such as <b> VueJS, Sass, Docker, PHP, HTML, CSS, Javascript, Figma and Git </b>. I am always learning about cutting-edge technologies on the market and I stand out for my versatility in learning new things.
 </br>
 ### :computer: Other Technologies I use:
 * Node.js + Express.js
