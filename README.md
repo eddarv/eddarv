@@ -20,6 +20,6 @@ I have 3 years of experience in web development, and 7 months of experience in t
 * MySQL
 * MongoDB
 
-I hope to connect with you and be part of your Frontend Development Team! 🤝
+I hope to connect with you and be part of your Development Team! 🤝
 
 #OpenToWork
